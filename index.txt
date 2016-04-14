@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaJam Coffee House</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1>This is the new line </h1>
+<h1  style="color:brown;">JavaJam Coffee House</h1>
+
+<div >
+<a href="index.html"> <span style="font-size: large"> Home </span></a>&nbsp;
+<a href="menu.html"> <span style="font-size: large"> Menu </span></a>&nbsp;
+<a href="music.html"> <span style="font-size: large"> Music </span> </a>&nbsp;
+<a href="jobs.html"> <span style="font-size: large"> Jobs </span></a>
+</div>
+
+ <em><ul >
+<li >Speciality Coffee and Tea</li>
+<li >Bagels, Muffins and Organic Snacks</li>
+<li >Music and Poetry Readings</li>
+<li>Open Mic Night</li>
+</ul></em>
+
+
+<div >
+12312 Main Street<br>
+Mountain Home, CA 93923<br>
+1-888-555-5555
+<br>
+<br>
+</div>
+	
+
+
+<footer >
+<div ><small><i>copyright &copy; 2013 JavaJam Coffee House<br></i>
+
+<a href="jaasti.lakshman@gmail.com">jaasti.lakshman@gmail.com</a></small></div>
+</footer>
+
+
+</body>
+</html>
